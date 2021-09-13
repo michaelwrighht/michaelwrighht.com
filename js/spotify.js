@@ -1,3 +1,5 @@
+// Hide Spotify Button by default
+document.getElementById("spotifyButton").style = "display: none";
 
 // Get current spotify status & song
 var i = 0;
